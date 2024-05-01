@@ -20,4 +20,3 @@ cd modules
 
 virtualenv env --python=3.9.7
 .\env\Scripts\python.exe .\env\Scripts\pip.exe install -r ./requirements.txt
-
